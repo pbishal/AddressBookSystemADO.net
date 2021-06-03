@@ -16,10 +16,10 @@ namespace AddressBookADO
             ///UC1 Creating a method for checking for the validity of the connection.
             //repository.EnsureDataBaseConnection();
             //AddNewContactDetails();
-            Console.WriteLine(repository.EditContactUsingName("niraj", "Kumar", "tata") ? "Update done successfully\n" : "Update failed");
-            Console.WriteLine(repository.DeleteContact("niraj", "Kumar") ? "Deleted Contact successfully\n" : "Update failed");
-            repository.RetrieveContactFromCityOrStateName();
-
+            //Console.WriteLine(repository.EditContactUsingName("niraj", "Kumar", "tata") ? "Update done successfully\n" : "Update failed");
+            //Console.WriteLine(repository.DeleteContact("niraj", "Kumar") ? "Deleted Contact successfully\n" : "Update failed");
+            //repository.RetrieveContactFromCityOrStateName();
+            repository.GetCountByCityOrState();
             Console.ReadLine();
 
 
