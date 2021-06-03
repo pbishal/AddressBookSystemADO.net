@@ -17,6 +17,7 @@ namespace AddressBookADO
             //repository.EnsureDataBaseConnection();
             //AddNewContactDetails();
             Console.WriteLine(repository.EditContactUsingName("niraj", "Kumar", "tata") ? "Update done successfully\n" : "Update failed");
+            Console.WriteLine(repository.DeleteContact("niraj", "Kumar") ? "Deleted Contact successfully\n" : "Update failed");
             Console.ReadLine();
 
 
