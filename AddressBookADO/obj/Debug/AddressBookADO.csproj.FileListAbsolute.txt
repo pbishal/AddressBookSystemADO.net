@@ -1,0 +1,7 @@
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\obj\Debug\AddressBookADO.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\obj\Debug\AddressBookADO.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\bin\Debug\AddressBookADO.exe.config
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\bin\Debug\AddressBookADO.exe
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\bin\Debug\AddressBookADO.pdb
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\obj\Debug\AddressBookADO.exe
+C:\Users\Bishal Pradhan\source\repos\AddressBookADO\AddressBookADO\obj\Debug\AddressBookADO.pdb
