@@ -15,7 +15,8 @@ namespace AddressBookADO
             AddressBookRepository repository = new AddressBookRepository();
             ///UC1 Creating a method for checking for the validity of the connection.
             //repository.EnsureDataBaseConnection();
-            AddNewContactDetails();
+            //AddNewContactDetails();
+            Console.WriteLine(repository.EditContactUsingName("niraj", "Kumar", "tata") ? "Update done successfully\n" : "Update failed");
             Console.ReadLine();
 
 
